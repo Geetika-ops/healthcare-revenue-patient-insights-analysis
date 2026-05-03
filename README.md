@@ -2,17 +2,17 @@
 
  Brief Summary
 
- Interactive Power BI dashboard analyzing hospital operations, patient trends, and revenue drivers with a focus on actionable insights.
+ Interactive Power BI dashboard analyzing hospital operations, patient trends and revenue drivers with a focus on actionable insights.
 _____
 
  Overview
 
- This project transforms raw healthcare data into a structured analytical dashboard to monitor patient flow, resource utilization, and financial performance. It emphasizes storytelling through data by connecting operational metrics with revenue outcomes.
+ This project transforms raw healthcare data into a structured analytical dashboard to monitor patient flow, resource utilization and financial performance. It emphasizes storytelling through data by connecting operational metrics with revenue outcomes.
 _____
 
  Problem Statement
 
- To identify key drivers of hospital revenue, understand patient distribution patterns, and evaluate operational efficiency for better decision-making.
+ To identify key drivers of hospital revenue, understand patient distribution patterns and evaluate operational efficiency for better decision-making.
 ____
 
  Tools & Technologies
@@ -44,7 +44,8 @@ ____
 ____
 
   Dashboard
-___
+  ![image alt](https://github.com/Geetika-ops/healthcare-analytics-powerbi-dashboard/blob/main/Screenshot%202026-05-03%20162321.png?raw=true)
+  ___
 
   Results & Conclusion
 
