@@ -1,4 +1,4 @@
-# healthcare-analytics-powerbi-dashboard
+# healthcare-revenue-patient-insights-analysis
 
  Brief Summary
 
@@ -44,6 +44,7 @@ ____
 ____
 
   Dashboard
+  
   ![image alt](https://github.com/Geetika-ops/healthcare-analytics-powerbi-dashboard/blob/main/Screenshot%202026-05-03%20162321.png?raw=true)
   ___
 
