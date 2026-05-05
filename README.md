@@ -25,13 +25,13 @@ ____
   Methods
 
  - Cleaned and transformed data using Power Query:
- - Handled missing follow-up dates (converted to null)
- - Standardized date formats and data types
+   - Handled missing follow-up dates (converted to null)
+   - Standardized date formats and data types
  - Built DAX measures:
- - Total Billing
- - Total Patients
- - Average Billing = Total Billing / Total Patients
--  Average Length of Stay (LOS) using DATEDIFF
+   - Total Billing
+   - Total Patients
+   - Average Billing = Total Billing / Total Patients
+   -  Average Length of Stay (LOS) using DATEDIFF
  - Designed interactive dashboard with slicers and KPI cards
 -  Applied data modeling and aggregation for meaningful insights
   ____
@@ -45,7 +45,7 @@ ____
 
   Dashboard
   
-  ![image alt](https://github.com/Geetika-ops/healthcare-analytics-powerbi-dashboard/blob/main/Screenshot%202026-05-03%20162321.png?raw=true)
+  ![image alt](https://github.com/Geetika-ops/healthcare-revenue-patient-insights-analysis/blob/a79e850fe98a9db5dd3a0933ea12db83e3d7de69/PowerBI%20Dashboard.png)
   ___
 
   Results & Conclusion
